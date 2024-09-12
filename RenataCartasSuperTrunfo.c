@@ -10,10 +10,10 @@ int main() {
     char Nome da cidade [50];
     int População;
     float Área;
-    float PIB;
-    int Número de pontos turísticos;
     float Densidade populacional;
+    float PIB;
     float PIB per capta;
+    int Número de pontos turísticos;
     float Super poder;
 
     printf("Digite o Estado escolhendo uma letra de 'A' a 'H': ");
